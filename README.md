@@ -8,13 +8,6 @@ Easily collect Square payments for simple payments or donations online without c
 - When payment success email will send to notification email.
 - When using for Donation check on user set a Donation amount otherwise leave unchecked to collect fixed amount
 
-### Features
-
-- Dynamically display change log.
-- Just Copy the ShortCode and use it any where. 
-- Easy to Use.
-- Saves all changelog in cache to keep things optimized
-
 ### Requirements:
 * Valid SSL certificate.
 * Square account.
