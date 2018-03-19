@@ -39,5 +39,5 @@ WPExperts offer solutions as a third party service provider, we are NOT affiliat
 ### Changelog
 
 **1.0** 
-# 2018-03-01 
+- 2018-03-01 
 * Initial release
